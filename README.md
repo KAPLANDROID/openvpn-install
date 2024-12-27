@@ -14,3 +14,6 @@ Once it ends, you can run it again to add more users, remove some of them or eve
   
 
 Debian9 /etc/apt/sources.list. => archive.debian.org
+
+Speed test
+`curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -`
