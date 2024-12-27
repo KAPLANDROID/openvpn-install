@@ -12,3 +12,5 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
   
+
+Debian9 /etc/apt/sources.list. => archive.debian.org
